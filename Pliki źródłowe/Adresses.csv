@@ -1,0 +1,15 @@
+﻿Nr_klienta;Typ_adresu;Nazwa_ulicy;NrNieruchomosci;NrLokalu;KodPocztowy;Miejscowosc;Wojewodztwo;data_utworzenia;data_zakonczenia
+1;2;Piłsudskiego;5;12;07-410;Ostrołęka;MAZOWIECKIE;2017-10-10;2999-01-01
+2;0;ul.Majaka;21;;00-412;Poznań;WIELKOPOLSKIE;2016-04-11;2017-09-03
+2;0;ul.Pasaż Ursynowski;2;;01-423;Warszawa;MAZOWIECKIE;2017-09-03;2999-01-01
+3;1;saszerów;2;;01-245;Wrocław;DOLNOŚLĄSKIE;2017-03-12;2999-01-01
+3;0;armii czerwonej;87;12;01-412;Warszawa;;2017-03-12;2999-01-01
+4;0;;112;36;00-400;Białystok;PODLASKIE;2017-10-13;2999-01-01
+4;1;Unii Europejskiej;236;1146;01-401;Warszawa;MAZOWIECKIE;2017-10-13;2999-01-01
+8;2;Armii Ludowej;1;2;00-423;Warszawa;MAZOWIECKIE;2015-06-14;2018-01-01
+8;2;Lecha Kaczyńskiego;1;2;;Warszawa;MAZOWIECKIE;2018-01-01;2999-01-01
+9;2;Stefana Batorego;23;111;00-402;Bździszewo;WARMIŃSKO-MAZURSKIE;2017-12-15;2999-01-01
+11;2;Stalińskiego;55;1;78-789;Pcim;ŚWIĘTOKRZYSKIE;2016-10-16;2999-01-01
+12;2;Kreski;2;;11-111;Radom;MAZOWIECKIE;2015-01-19;2999-01-01
+15;2;Babkowice;5;;00-123;Wysokie Mazowieckie;PODLASKIE;2017-11-18;2999-01-01
+16;2;Rycerska;5;;08-800;Sopot;POMORSKIE;2017-02-25;2999-01-01
