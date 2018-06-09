@@ -1,0 +1,6 @@
+﻿Nr_klienta (number);Nr_firmy (number);Nazwa_rejestrowa (string);REGON (string);KRS (string);NIP (string)
+2;1;Techland;472836141;0000045146;725-18-01-126
+4;2;CD Project Red;476833678;0000088745;123-45-67-819
+9;3;Ubisoft;;0000079792;285-87-11-624
+12;4;Microsoft;477197864;0000014569;588-55-46-262
+16;5;Electronic Arts;314246597;0000046799;624-22-22-222

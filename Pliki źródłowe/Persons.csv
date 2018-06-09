@@ -1,0 +1,11 @@
+﻿Nr_klienta (number);PESEL(String);Data_utworzenia (date);Data_zakonczenia (date);Imię (String);Imię2 (String);Nazwisko (String);Data_urodzenia (date)
+1;90101145631;2017-10-10;2999-01-01;Jan;Mateusz;Abacki;1990-10-11
+2;89041811111;2016-04-11;2999-01-01;Michał@#$@$!@;;Babacki;1989-04-18
+3;88031033333;2017-03-12;2999-01-01;Krzysztof;Jan;Kowalski;1988-03-10
+4;87020722222;2017-10-13;2999-01-01;Klaudia;;Zawacka;1987-02-07
+8;86010144444;2015-06-14;2999-01-01;Marta;;Anders;1986-01-01
+9;85080255555;2017-12-15;2999-01-01;Grzegorz;;Zamenhof;1985-08-02
+11;84122866666;2016-10-16;2999-01-01;;;;1984-12-28
+12;83111588888;2015-01-17;2999-01-01;Anna;Karolina;Wesołowska;1983-11-15
+15;82052277777;2017-11-18;2999-01-01;;;Lewartowski;1982-05-22
+16;81021999999;2017-02-19;2999-01-01;Piotr;Marcin;Edleman;1981-02-19
